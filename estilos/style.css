@@ -19,4 +19,12 @@ body{
     left: 50%;
     bottom: 50%;
     transform: translate(-50%,50%);
+    overflow: hidden;
+}
+#imagem{
+    background-image: url(../imagens/pedras.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: -10px;
+    height: 200px;
 }
