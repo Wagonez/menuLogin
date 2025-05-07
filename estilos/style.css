@@ -30,11 +30,13 @@ html{
     height: 40%;
 }
 div>p{
-    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 div>h1{
     text-align: center;
-    padding: 15px;
+    padding-top: 15px;
+    padding-bottom: 3px;
 }
 body{
    background-color: rgb(29, 238, 29);
