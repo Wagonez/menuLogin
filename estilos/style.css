@@ -27,7 +27,7 @@ html,body{
     background-repeat: no-repeat;
     background-size: cover;
     margin: -10px;
-    height: 200px;
+    max-height: 200px;
 }
 div>p{
     padding: 10px;
