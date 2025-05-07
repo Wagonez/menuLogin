@@ -12,6 +12,7 @@ html{
     position: absolute;
     width: 250px;
     height: 500px;
+    max-width: 100%;
     background-color: white;
     border-radius: 20px;
     padding: 10px;
