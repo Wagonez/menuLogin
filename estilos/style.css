@@ -6,9 +6,7 @@
 }
 html{
     width: 100%;
-}
-body{
-    background-color: rgb(114, 30, 44);
+    height: 100%;
 }
 #login{
     position: absolute;
@@ -36,4 +34,7 @@ div>p{
 div>h1{
     text-align: center;
     padding: 15px;
+}
+body{
+   background-color: brown;
 }

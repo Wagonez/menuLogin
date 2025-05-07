@@ -9,7 +9,7 @@
 */
 @media screen and (min-width: 768px) and (max-width: 992px) {
     body{
-        background-image: linear-gradient(to top, green, blue);
+        background-image: linear-gradient(rgb(240, 65, 65),rgb(15, 4, 4));
     }
     #login{
         width: 80vw;
@@ -42,5 +42,8 @@
     }
     div>p{
         text-align: center;
+    }
+    body{
+        background-image: linear-gradient(rgb(240, 65, 65),rgb(20, 5, 5));
     }
 }
