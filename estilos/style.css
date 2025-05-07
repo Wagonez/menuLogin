@@ -7,7 +7,7 @@ html{
     width: 100vw;
 }
 body{
-    background-color: rgb(250, 68, 99);
+    background-color: rgb(114, 30, 44);
 }
 #login{
     position: absolute;
@@ -20,6 +20,7 @@ body{
     bottom: 50%;
     transform: translate(-50%,50%);
     overflow: hidden;
+    box-shadow: 0px 3px 5px black;
 }
 #imagem{
     background-image: url(../imagens/pedras.jpg);
