@@ -28,9 +28,9 @@
         background-image: linear-gradient(to bottom, green, rgb(84, 109, 84));
     }
 }
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 950px) {
     #login{
-        width: 90%;
+        width: 950px;
     }
     #imagem{
         float: right;
