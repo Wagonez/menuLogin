@@ -32,4 +32,20 @@
     #login{
         width: 90%;
     }
+    #imagem{
+        float: right;
+        width: 50%;
+        height: 100vh;
+    }
+    #formulario{
+        float: left;
+        width: 50%;
+        height: 100vh;
+    }
+    p{
+        text-align: center;
+    }
+    body{
+        background-image: linear-gradient(to bottom,green, rgb(84 );
+    }
 }
