@@ -88,3 +88,15 @@ form>div.campo{
     margin-top: 5px;
     border-radius: 10px;
 }
+.campo>input{
+    display: block;
+    background-color: rgb(181, 181, 245);
+    border-radius: 10px;
+    height: 40px;
+    width: 90%;
+    transform: translate(26px, -26px);
+    text-align: center;
+}
+label{
+    display: none;
+}

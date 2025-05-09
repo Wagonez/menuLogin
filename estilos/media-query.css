@@ -27,6 +27,15 @@
     body{
         background-image: linear-gradient(to bottom, green, rgb(84, 109, 84));
     }
+    .campo>input{
+        display: block;
+        background-color: rgb(181, 181, 245);
+        border-radius: 10px;
+        height: 40px;
+        width: 95%;
+        transform: translate(26px, -26px);
+        text-align: center;
+    }
 }
 @media screen and (min-width: 992px) {
     #login{
@@ -47,5 +56,14 @@
     }
     body{
         background-image: linear-gradient(to bottom, green,blue);
+    }
+    .campo>input{
+        display: block;
+        background-color: rgb(181, 181, 245);
+        border-radius: 10px;
+        height: 40px;
+        width: 95%;
+        transform: translate(26px, -26px);
+        text-align: center;
     }
 }
